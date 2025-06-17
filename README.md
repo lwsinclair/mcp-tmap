@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yunkee-lee-mcp-tmap-badge.png)](https://mseep.ai/app/yunkee-lee-mcp-tmap)
+
 # MCP TMAP
 
 The MCP connects to the TMAP API.
